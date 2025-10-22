@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Horse Breeding Enhanced - RP",
+    "description": "§aResources for advanced horse breeding",
+    "uuid": "2313daa4-3489-408c-8870-ae492ce8943c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      50
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "2d6e6eef-de39-4c08-a6f0-c055d0f3e19a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
